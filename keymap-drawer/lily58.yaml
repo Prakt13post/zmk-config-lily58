@@ -4,18 +4,7 @@ layers:
     Z, X, C, V, B, BACKSPACE, ENTER, N, M, ',', ., /, ']', '$$mdi:apple-keyboard-option$$', '$$mdi:apple-keyboard-command$$', Low, ␣, ␣, Rai, '$$mdi:backspace-outline$$',
     '$$mdi:apple-keyboard-command$$']
   Low:
-  - BT CLR
-  - BT 1
-  - BT 2
-  - BT 3
-  - BT 4
-  - BT 5
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Boot
   - F1
   - F2
   - F3
@@ -26,7 +15,18 @@ layers:
   - F8
   - F9
   - F10
-  - F11
+  - KP NUMLOCK
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - +
+  - '7'
+  - '8'
+  - '9'
+  - '*'
   - F12
   - '`'
   - '!'
@@ -34,11 +34,11 @@ layers:
   - '#'
   - $
   - '%'
-  - ^
-  - AMPS
-  - KP MULTIPLY
-  - (
-  - )
+  - '-'
+  - '4'
+  - '5'
+  - '6'
+  - /
   - '~'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -46,13 +46,13 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - F11
+  - F12
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '-'
-  - KP PLUS
-  - '{'
-  - '}'
+  - '1'
+  - '2'
+  - '3'
+  - .
   - '|'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -60,9 +60,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '0'
   - {t: ▽, type: trans}
   Rai:
+  - Boot
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -73,8 +74,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Boot
   - '`'
   - '1'
   - '2'
