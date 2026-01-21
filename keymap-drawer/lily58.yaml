@@ -77,9 +77,9 @@ layers:
   - '`'
   - '1'
   - '2'
-  - '3'
+  - '&mmv MOVE_UP'
   - '4'
-  - '5'
+  - '&msc SCRL_UP'
   - '6'
   - '7'
   - UP ARROW
@@ -88,10 +88,10 @@ layers:
   - {t: ▽, type: trans}
   - F1
   - F2
-  - F3
-  - F4
-  - F5
-  - F6
+  - '&mmv MOVE_LEFT'
+  - '&mmv MOVE_DOWN'
+  - '&mmv MOVE_RIGHT'
+  - '&msc SCRL_DOWN'
   - {t: ▽, type: trans}
   - ←
   - ↓
