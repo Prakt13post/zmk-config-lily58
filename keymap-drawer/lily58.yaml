@@ -47,7 +47,7 @@ layers:
   - {t: ▽, type: trans}
   - F11
   - F12
-  - {t: ▽, type: trans}
+  - \
   - '1'
   - '2'
   - '3'
