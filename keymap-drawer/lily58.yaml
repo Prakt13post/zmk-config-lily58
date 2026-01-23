@@ -15,24 +15,24 @@ layers:
   - F9
   - F10
   - KP NUMLOCK
-  - F1
-  - F2
-  - F3
-  - F4
-  - F5
-  - F6
+  - {t: ▽, type: trans}
+  - MUTE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - PLAY PAUSE
   - +
   - '7'
   - '8'
   - '9'
   - '*'
-  - F12
-  - '`'
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
+  - \
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '-'
   - '4'
   - '5'
@@ -42,13 +42,13 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - CALC
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F11
   - F12
   - \
-  - '1'
+  - KP 1
   - '2'
   - '3'
   - .
@@ -57,12 +57,12 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - MENU
   - {t: ▽, type: trans}
   - '0'
   - {t: ▽, type: trans}
   Rai:
-  - Boot
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -75,19 +75,19 @@ layers:
   - {t: ▽, type: trans}
   - Boot
   - '`'
-  - '1'
-  - '2'
-  - '&mmv MOVE_UP'
-  - '4'
-  - '&msc SCRL_UP'
-  - '6'
-  - '7'
-  - UP ARROW
-  - '9'
-  - '0'
   - {t: ▽, type: trans}
-  - F1
-  - F2
+  - {t: ▽, type: trans}
+  - '&mmv MOVE_UP'
+  - {t: ▽, type: trans}
+  - '&msc SCRL_UP'
+  - {t: ▽, type: trans}
+  - Page Up
+  - UP ARROW
+  - PAGE DOWN
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '&mmv MOVE_LEFT'
   - '&mmv MOVE_DOWN'
   - '&mmv MOVE_RIGHT'
@@ -96,22 +96,22 @@ layers:
   - ←
   - ↓
   - →
-  - →
   - {t: ▽, type: trans}
-  - F7
-  - F8
-  - F9
-  - F10
-  - F11
-  - F12
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&mkp MCLK'
+  - '&mkp RCLK'
   - '&mkp LCLK'
   - '&mkp RCLK'
-  - '-'
-  - '='
-  - '['
-  - ']'
-  - \
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
